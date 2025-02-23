@@ -8,3 +8,5 @@ Uno dei miei piatti preferiti, lo mangerei anchea mezzanotte!
 * aglio
 * olio
 * peperoncino
+* prezzemolo
+* 
